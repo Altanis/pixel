@@ -1,0 +1,5 @@
+class Animal {
+    override fn speak() -> string {
+        return "I am an animal with name " + this["name"];
+    }
+}
