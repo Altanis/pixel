@@ -1,5 +1,1 @@
-class Animal {
-    override fn speak() -> string {
-        return "I am an animal with name " + this["name"];
-    }
-}
+"α^2 + β^2 = γ^2 => γ = √(α^2 + β^2) => 😂 🤡 💀 📉"
